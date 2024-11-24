@@ -40,7 +40,7 @@ public class DefaultDispatcherGatewayService
     }
 
     @Override
-    public DispatcherGateway getGateway() {
+    public DispatcherGateway  getGateway() {
         return dispatcherGateway;
     }
 
